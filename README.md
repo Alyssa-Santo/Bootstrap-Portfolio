@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-Portfolio Using Bootstrap
+# basic-portfolio
+Basic-Portfolio
